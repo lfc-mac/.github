@@ -21,9 +21,3 @@
 ### 🎨 CC (Culture & Communication)
 - **Onigiri**, **Nemogrim**, **LAMP**, **Nemonori**
 - 언어·창작·문화 영역의 자유를 확장하는 프로젝트들
-
----
-
-### 🤝 Join Us
-우리는 기술과 철학의 경계를 넘는 협업을 지향합니다.  
-관심 있는 분은 [GitHub Discussions](./discussions) 로 연락해주세요.
