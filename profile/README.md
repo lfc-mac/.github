@@ -13,7 +13,7 @@
 - Mission : 세계인의 신체적 자유
 - **Waveform** — FDTD 시뮬레이션 및 메타물질 설계 플랫폼
 - **Rayform** — 광학계 설계 소프트웨어
-- **Image Spectrometer** — 차세대 광학센서 개발
+- **Image Spectrometer** 개발
 
 ### 💹 FA (Finance & Analysis) 
 - Mission : 세계인의 경제적 자유
