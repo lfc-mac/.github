@@ -1,6 +1,6 @@
 # 🌐 LFC-MAC
 
-### Life · Finance · Culture – Mission for All
+### Life · Finance · Culture – Mission for Us
 
 우리의 사명은 우리가 **신체적**, **경제적**, **문화적** 자유를 최대한으로 누리는 것입니다.
 우리는 그 수단들로 세계에 존재하는 **기계, 분석 기술, 커뮤니케이션** 기술을 최대한으로 활용합니다.
